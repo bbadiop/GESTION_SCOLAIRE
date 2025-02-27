@@ -1,0 +1,15 @@
+C:\Users\papem\source\repos\Gestion_Scolaire\Gestion_Scolaire\obj\Debug\Gestion_Scolaire.csproj.AssemblyReference.cache
+C:\Users\papem\source\repos\Gestion_Scolaire\Gestion_Scolaire\obj\Debug\Gestion_Scolaire.Properties.Resources.resources
+C:\Users\papem\source\repos\Gestion_Scolaire\Gestion_Scolaire\obj\Debug\Gestion_Scolaire.csproj.GenerateResource.cache
+C:\Users\papem\source\repos\Gestion_Scolaire\Gestion_Scolaire\obj\Debug\Gestion_Scolaire.csproj.CoreCompileInputs.cache
+C:\Users\papem\source\repos\Gestion_Scolaire\Gestion_Scolaire\bin\Debug\Gestion_Scolaire.exe.config
+C:\Users\papem\source\repos\Gestion_Scolaire\Gestion_Scolaire\bin\Debug\Gestion_Scolaire.exe
+C:\Users\papem\source\repos\Gestion_Scolaire\Gestion_Scolaire\bin\Debug\Gestion_Scolaire.pdb
+C:\Users\papem\source\repos\Gestion_Scolaire\Gestion_Scolaire\bin\Debug\EntityFramework.dll
+C:\Users\papem\source\repos\Gestion_Scolaire\Gestion_Scolaire\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\papem\source\repos\Gestion_Scolaire\Gestion_Scolaire\bin\Debug\EntityFramework.xml
+C:\Users\papem\source\repos\Gestion_Scolaire\Gestion_Scolaire\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\papem\source\repos\Gestion_Scolaire\Gestion_Scolaire\obj\Debug\Gestion_.CC11F365.Up2Date
+C:\Users\papem\source\repos\Gestion_Scolaire\Gestion_Scolaire\obj\Debug\Gestion_Scolaire.exe
+C:\Users\papem\source\repos\Gestion_Scolaire\Gestion_Scolaire\obj\Debug\Gestion_Scolaire.pdb
+C:\Users\papem\source\repos\Gestion_Scolaire\Gestion_Scolaire\obj\Debug\Gestion_Scolaire.Migrations.InitialCreateMigration.resources
